@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hey, this is us 👋
 
-<!--
+### About
+We are a bunch of developers based in Kurdistan that are interested in open-source projects.
 
-**Here are some ideas to get you started:**
+### Why are we here?
+since github is a great place to share our code and contribute to other project we decided to join github.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How Can I join too?
+absolutely you can. if you know kurdish language and have programming skills:
+ - send an kurdish email to (Arvinmostafaeii@gmail.com).
+ - In the subject of the email please put "Eagle eyes", so that i will see your email for sure. 
+ - in your email please include your goals about joining our team.
+ - please add your github username in the bottom of your email.
